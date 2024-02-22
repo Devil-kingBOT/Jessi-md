@@ -58,11 +58,11 @@ global.APIKeys = { // APIKey Here
   'https://telegra.ph/file/1c6dcc7d763523de41500.jpg', 'https://telegra.ph/file/1c6dcc7d763523de41500.jpg',
   'https://telegra.ph/file/1c6dcc7d763523de41500.jpg', 'https://telegra.ph/file/1c6dcc7d763523de41500.jpg',
   'https://telegra.ph/file/1c6dcc7d763523de41500.jpg', 'https://telegra.ph/file/1c6dcc7d763523de41500.jpg',
-  'https://telegra.ph/file/1c6dcc7d763523de41500.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://telegra.ph/file/1c6dcc7d763523de41500.jpg', 'https://telegra.ph/file/1c6dcc7d763523de41500.jpg'
 ]
 
 // Sticker WM
-global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ ᴍʀ.ᴡʜɪᴛᴇ ꜱʜᴀᴅᴏᴡ 」`
+global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ Devil.king 」`
 global.botdate = `⫹⫺ Day`
 global.bottime = `ᴛɪᴍᴇ:`
 global.author = ''
